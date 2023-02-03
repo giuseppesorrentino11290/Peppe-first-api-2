@@ -13,6 +13,7 @@ public class FactorialController {
         return "Calcoliamo il Fattoriale ";
     }
 
+
     @GetMapping("/{n}")
     public Integer getFactorial(@PathVariable (name = "n") Integer n ){
         Integer result = n;
