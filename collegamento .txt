@@ -1,0 +1,1 @@
+http://localhost:8080/strings?string1=Giuseppe&string2=Sorrentino
